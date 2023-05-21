@@ -1,4 +1,4 @@
-# aws_sftp_server
+# aws_sftp_serverr
 
 Copyright (c) 2022, [GitHub@programmingwithalex](https://github.com/programmingwithalex)
 
